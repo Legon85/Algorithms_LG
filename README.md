@@ -1,1 +1,1 @@
-# Algorithms_LG
+# This is my project about learning algorithms on python
