@@ -1,1 +1,1 @@
-# This is my project about learning algorithms on python
+# This is my project about learning algorithms on python.
