@@ -1,4 +1,5 @@
 algorithms_testing_file.py
 Algorithms_repetition.py
 useful_notes.py
-.idea
+.idea/
+__pycache__/
