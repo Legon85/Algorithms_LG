@@ -1,10 +1,10 @@
-states_needed = set(["mt", "wa", "or", "id", "nv", "ut", "ca", "az"])
+states_needed = {"mt", "wa", "or", "id", "nv", "ut", "ca", "az"}
 
-stations = {"kone": set(["id", "nv", "ut"]),
-            "ktwo": set(["wa", "id", "mt"]),
-            "kthree": set(["or", "nv", "ca"]),
-            "kfour": set(["nv", "ut"]),
-            "kfive": set(["ca", "az"])}
+stations = {"kone": {"id", "nv", "ut"},
+            "ktwo": {"wa", "id", "mt"},
+            "kthree": {"or", "nv", "ca"},
+            "kfour": {"nv", "ut"},
+            "kfive": {"ca", "az"}}
 
 
 final_stations = set()
