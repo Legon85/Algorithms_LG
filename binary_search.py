@@ -1,5 +1,5 @@
 def binary_search(lst, item):
-    """O(log n)"""
+    """O(logar n)"""
     low = 0
     high = len(lst)-1
 
